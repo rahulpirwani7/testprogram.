@@ -17,9 +17,9 @@ _profession
 2.disha 
 *name
 *father
-[]
-[]
-[x]
+- []
+- []
+- [x]
 *proffe
 ## disco dancer
 
